@@ -1,1 +1,1 @@
-# Rothko-Painting
+# Rothko-Painting freecode camp project
